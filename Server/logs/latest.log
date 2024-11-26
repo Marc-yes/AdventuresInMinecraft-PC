@@ -30,3 +30,12 @@
 [18:48:40] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
 [18:48:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
 [18:48:40] [Server thread/INFO]: Done (10,593s)! For help, type "help" or "?"
+[19:04:28] [Server thread/INFO]: marcdelcuco[/127.0.0.1:53702] logged in with entity id 2236 at ([world]0.5, 67.0, -60.5)
+[19:12:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 299052ms behind, skipping 5981 tick(s)
+[19:12:50] [Server thread/INFO]: marcdelcuco lost connection: Timed out
+[19:12:50] [Server thread/INFO]: marcdelcuco left the game
+[19:27:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 844048ms behind, skipping 16880 tick(s)
+[19:54:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 81539ms behind, skipping 1630 tick(s)
+[19:57:48] [Server thread/INFO]: marcdelcuco[/127.0.0.1:62688] logged in with entity id 2263 at ([world]26.251660636917386, 81.0, 25.270601113023748)
+[20:03:17] [Server thread/INFO]: marcdelcuco lost connection: Disconnected
+[20:03:17] [Server thread/INFO]: marcdelcuco left the game
