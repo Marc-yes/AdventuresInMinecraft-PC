@@ -1,41 +1,36 @@
-[18:48:29] [Server thread/INFO]: Starting minecraft server version 1.12
-[18:48:29] [Server thread/INFO]: Loading properties
-[18:48:29] [Server thread/INFO]: Default game type: CREATIVE
-[18:48:29] [Server thread/INFO]: Generating keypair
-[18:48:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:48:29] [Server thread/INFO]: Using default channel type
-[18:48:29] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
-[18:48:30] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
-[18:48:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:48:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:48:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:48:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:48:30] [Server thread/INFO]: Preparing level "world"
-[18:48:30] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6666486777347845768)
-[18:48:31] [Server thread/INFO]: Preparing spawn area: 20%
-[18:48:32] [Server thread/INFO]: Preparing spawn area: 41%
-[18:48:33] [Server thread/INFO]: Preparing spawn area: 65%
-[18:48:34] [Server thread/INFO]: Preparing spawn area: 86%
-[18:48:35] [Server thread/INFO]: Preparing start region for level 1 (Seed: -6666486777347845768)
-[18:48:36] [Server thread/INFO]: Preparing spawn area: 21%
-[18:48:37] [Server thread/INFO]: Preparing spawn area: 43%
-[18:48:38] [Server thread/INFO]: Preparing spawn area: 63%
-[18:48:39] [Server thread/INFO]: Preparing spawn area: 90%
-[18:48:39] [Server thread/INFO]: Preparing start region for level 2 (Seed: -6666486777347845768)
-[18:48:40] [Server thread/INFO]: Preparing spawn area: 99%
-[18:48:40] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
-[18:48:40] [Server thread/INFO]: [RaspberryJuice] Using port 4711
-[18:48:40] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
-[18:48:40] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
-[18:48:40] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
-[18:48:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:48:40] [Server thread/INFO]: Done (10,593s)! For help, type "help" or "?"
-[19:04:28] [Server thread/INFO]: marcdelcuco[/127.0.0.1:53702] logged in with entity id 2236 at ([world]0.5, 67.0, -60.5)
-[19:12:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 299052ms behind, skipping 5981 tick(s)
-[19:12:50] [Server thread/INFO]: marcdelcuco lost connection: Timed out
-[19:12:50] [Server thread/INFO]: marcdelcuco left the game
-[19:27:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 844048ms behind, skipping 16880 tick(s)
-[19:54:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 81539ms behind, skipping 1630 tick(s)
-[19:57:48] [Server thread/INFO]: marcdelcuco[/127.0.0.1:62688] logged in with entity id 2263 at ([world]26.251660636917386, 81.0, 25.270601113023748)
-[20:03:17] [Server thread/INFO]: marcdelcuco lost connection: Disconnected
-[20:03:17] [Server thread/INFO]: marcdelcuco left the game
+[17:21:52] [Server thread/INFO]: Loading properties
+[17:21:52] [Server thread/INFO]: Default game type: CREATIVE
+[17:21:52] [Server thread/INFO]: Generating keypair
+[17:21:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:21:52] [Server thread/INFO]: Using default channel type
+[17:21:53] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-ed8c725 (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[17:21:53] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.10
+[17:21:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:21:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:21:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:21:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:21:53] [Server thread/INFO]: Preparing level "world"
+[17:21:53] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6666486777347845768)
+[17:21:54] [Server thread/INFO]: Preparing start region for level 1 (Seed: -6666486777347845768)
+[17:21:54] [Server thread/INFO]: Preparing start region for level 2 (Seed: -6666486777347845768)
+[17:21:54] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.10
+[17:21:54] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[17:21:54] [Server thread/INFO]: [RaspberryJuice] Using ABSOLUTE locations
+[17:21:54] [Server thread/INFO]: [RaspberryJuice] Using BOTH clicks for hits
+[17:21:54] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[17:21:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:21:54] [Server thread/INFO]: Done (1,576s)! For help, type "help" or "?"
+[17:22:07] [Server thread/INFO]: marcdelcuco[/127.0.0.1:50634] logged in with entity id 22 at ([world]26.408786395242714, 81.0, 25.135354118212984)
+[17:38:26] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50968.
+[17:38:26] [Thread-8/INFO]: [RaspberryJuice] Starting output thread!
+[17:38:26] [Thread-7/INFO]: [RaspberryJuice] Starting input thread
+[17:38:26] [Server thread/INFO]: Hello Minecraft World[m
+[17:38:26] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50968.
+[17:49:43] [Server thread/INFO]: marcdelcuco lost connection: Disconnected
+[17:49:43] [Server thread/INFO]: marcdelcuco left the game
+[17:49:54] [Server thread/INFO]: marcdelcuco[/127.0.0.1:51094] logged in with entity id 74 at ([world]25.21663359197679, 81.0, 24.65554663935786)
+[17:53:11] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[17:53:11] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[17:53:11] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51122.
+[17:53:11] [Server thread/INFO]: Hello Minecraft World[m
+[17:53:11] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51122.
