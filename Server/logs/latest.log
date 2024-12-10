@@ -32,3 +32,39 @@
 [17:12:47] [Server thread/INFO]: saboc[m
 [17:12:50] [Netty Server IO #4/INFO]: <marcdelcuco> insultam[m
 [17:12:50] [Server thread/INFO]: no vals un fuckin duro[m
+[17:20:11] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50354.
+[17:20:12] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50791.
+[17:20:12] [Thread-10/INFO]: [RaspberryJuice] Starting output thread!
+[17:20:12] [Thread-9/INFO]: [RaspberryJuice] Starting input thread
+[17:20:12] [Server thread/INFO]: -7.500087[m
+[17:20:12] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50791.
+[17:20:44] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:50798.
+[17:20:44] [Thread-12/INFO]: [RaspberryJuice] Starting output thread!
+[17:20:44] [Thread-11/INFO]: [RaspberryJuice] Starting input thread
+[17:20:45] [Server thread/INFO]: 3.149893[m
+[17:20:45] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:50798.
+[17:28:35] [Netty Server IO #4/INFO]: <marcdelcuco> insultam[m
+[17:36:23] [Server thread/INFO]: marcdelcuco lost connection: Disconnected
+[17:36:23] [Server thread/INFO]: marcdelcuco left the game
+[17:36:37] [Server thread/INFO]: marcdelcuco[/127.0.0.1:51034] logged in with entity id 23 at ([world]24.480858746834365, 81.0, 24.123092942708272)
+[17:40:36] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51093.
+[17:40:36] [Thread-13/INFO]: [RaspberryJuice] Starting input thread
+[17:40:36] [Thread-14/INFO]: [RaspberryJuice] Starting output thread!
+[17:40:36] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51093.
+[17:41:59] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51266.
+[17:41:59] [Thread-16/INFO]: [RaspberryJuice] Starting output thread!
+[17:41:59] [Thread-15/INFO]: [RaspberryJuice] Starting input thread
+[17:41:59] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51266.
+[17:43:46] [Thread-5/INFO]: [RaspberryJuice] Opened connection to/127.0.0.1:51297.
+[17:43:46] [Thread-17/INFO]: [RaspberryJuice] Starting input thread
+[17:43:46] [Thread-18/INFO]: [RaspberryJuice] Starting output thread!
+[17:43:50] [Netty Server IO #6/INFO]: <marcdelcuco> tnt[m
+[17:43:59] [Netty Server IO #6/INFO]: <marcdelcuco> tnt[m
+[17:44:20] [Netty Server IO #6/INFO]: <marcdelcuco> tnt[m
+[17:44:39] [Netty Server IO #6/INFO]: <marcdelcuco> tnt[m
+[17:44:51] [Netty Server IO #6/INFO]: <marcdelcuco> tnt[m
+[17:45:05] [Netty Server IO #6/INFO]: <marcdelcuco> tnt[m
+[17:45:12] [Server thread/INFO]: marcdelcuco has made the advancement [Stone Age]
+[17:45:22] [Netty Server IO #6/INFO]: <marcdelcuco> tnt[m
+[17:46:20] [Netty Server IO #6/INFO]: <marcdelcuco> tnt[m
+[17:46:55] [Netty Server IO #6/INFO]: <marcdelcuco> mod[m
