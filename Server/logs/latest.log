@@ -68,3 +68,5 @@
 [17:45:22] [Netty Server IO #6/INFO]: <marcdelcuco> tnt[m
 [17:46:20] [Netty Server IO #6/INFO]: <marcdelcuco> tnt[m
 [17:46:55] [Netty Server IO #6/INFO]: <marcdelcuco> mod[m
+[17:52:20] [Thread-17/INFO]: [RaspberryJuice] Connection reset
+[17:52:20] [Server thread/INFO]: [RaspberryJuice] Closed connection to/127.0.0.1:51297.
