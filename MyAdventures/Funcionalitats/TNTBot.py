@@ -8,10 +8,14 @@ import mcpi.block as block
 
 mc = Minecraft.Minecraft.create()
 
-entityIds = mc.getPlayerEntityIds()
-EntityId = entityIds[0]
 
-direction = mc.entity.getPitch(EntityId)
+while True:
+    chatEvent = mc.events.pollChatPosts()
+    for mensaje in chatEvent:
+        if mensaje.message == "tnt":
+            x, y, z = mc.player.getTilePos()
+            mc.setBlock(x+1, y, z, block.TNT)
+            mc.setBlock(x+1, y+1, z, block.FIRE) 
 
-
-mc.postToChat(direction)
+            
+#mc.postToChat()
